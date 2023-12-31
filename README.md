@@ -1,3 +1,3 @@
-# project.Python
+# Python.Project
 
 Башинская Ксения Святославвовна
